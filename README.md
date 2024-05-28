@@ -1,4 +1,4 @@
-### <div align="center">I'm WenzeJin, an undergraduated student in Nanjing University.</div>  
+### <div align="center">I'm WenzeJin, an undergraduated student of Nanjing University.</div>  
   
 
 - 🔭 I’m currently working on LLM assisted static analysis.  
