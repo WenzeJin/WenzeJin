@@ -31,7 +31,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 
 <br/>
-
+<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WenzeJin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
