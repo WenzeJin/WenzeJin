@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on LLM assisted static analysis.  
   
 
-- 🌱 I’m currently learning basic ideas of software engineering & software quality assurance.  
+- 🌱 I’m currently learning basic ideas of software engineering.  
   
 
 - ❓ Feel free to give me any suggestions.  
