@@ -10,6 +10,8 @@
 
 <br>  
 
+<a href="https://wenzejin.github.io">Go to my homepage</a>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WenzeJin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br>  
