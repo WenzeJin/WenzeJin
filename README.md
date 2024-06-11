@@ -1,12 +1,10 @@
 ### <div align="center">I'm WenzeJin, an undergraduated student of Nanjing University.</div>  
   
 
-- 🔭 I’m currently working on LLM assisted static analysis.  
+- 🔭 I’m currently working on quility assurance and security of self-adapted software, especially applying Metamorphic Testing on context consistancy checking implements.
   
-
-- 🌱 I’m currently learning basic ideas of software engineering.  
+- 🌱 I’m currently learning basic ideas of software engineering & quality assurance.
   
-
 - ❓ Feel free to give me any suggestions.  
   
 
