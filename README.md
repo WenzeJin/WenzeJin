@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on quility assurance and security of **self-adapted software**, especially applying **metamorphic testing** on context consistancy checking implements.
   
-- 🌱 I’m currently learning basic ideas of software engineering & quality assurance.
+- 🌱 I’m currently learning basic ideas of software engineering.
   
 - ❓ Feel free to give me any suggestions.  
 
