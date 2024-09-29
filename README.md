@@ -1,6 +1,6 @@
 ## Wenze Jin (金文泽)
 
-> I am an undergraduate student of Computer Science & Technology Department, Nanjing University.
+> I am an undergraduate student of School of Computer Science, Nanjing University.
 
 - 🔭 I’m currently working on quility assurance and security of **self-adapted software**, especially applying **metamorphic testing** on context consistancy checking implements.
   
