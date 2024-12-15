@@ -2,13 +2,16 @@
 
 > I am an undergraduate student of School of Computer Science, Nanjing University.
 
-- 🔭 I’m currently working on quility assurance and security of **self-adapted software**, especially applying **metamorphic testing** on context consistancy checking implements.
+- 🔭 I’m currently working on software quility assurance, particularly focusing on testing approaches for specific software.
   
-- 🌱 I’m currently learning basic ideas of software engineering.
+- 🌱 I’m interested in software engineering & QA.
   
 - ❓ Feel free to give me any suggestions.  
 
 <br>  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <a href="https://wenzejin.github.io">Go to my homepage</a>
 
