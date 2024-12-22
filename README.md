@@ -28,4 +28,4 @@ Groovy           7 mins          ▒░░░░░░░░░░░░░░�
 
 [Go to my homepage](https://wenzejin.github.io)
 
-[Go to my blog](https://wenzejin.notion.site)
+[Go to my blog]([https://wenzejin.notion.site](https://wenzejin.notion.site/Wenze-Jin-s-Blog-1635e9fa7b6d80b3adcedfacc74aa717?pvs=4)
