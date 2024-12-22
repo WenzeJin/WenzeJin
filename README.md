@@ -1,10 +1,10 @@
 ## Wenze Jin (金文泽)
 
-> I am an undergraduate student of School of Computer Science, Nanjing University.
+> I am an undergraduate student in School of Computer Science, Nanjing University.
 
 - 🔭 I’m currently working on software quility assurance, particularly focusing on testing approaches for specific software.
   
-- 🌱 I’m interested in software engineering & QA.
+- 🌱 I’m interested in SQA & SE.
   
 - ❓ Feel free to give me any suggestions.  
 
@@ -28,3 +28,4 @@ Groovy           7 mins          ▒░░░░░░░░░░░░░░�
 
 <a href="https://wenzejin.github.io">Go to my homepage</a>
 
+<a href="htpps://wenzejin.notion.site">Go to my blog</a>
