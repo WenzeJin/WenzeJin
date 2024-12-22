@@ -26,6 +26,6 @@ Groovy           7 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<a href="https://wenzejin.github.io">Go to my homepage</a>
+[Go to my homepage](https://wenzejin.github.io)
 
-<a href="htpps://wenzejin.notion.site">Go to my blog</a>
+[Go to my blog](https://wenzejin.notion.site)
