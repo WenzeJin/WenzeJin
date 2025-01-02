@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 3 hrs 8 mins
+Total Time: 3 hrs 44 mins
 
-C++           1 hr 6 mins     █████████░░░░░░░░░░░░░░░░   35.52 %
-Text          36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Markdown      36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-C             25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-HTML          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+C++           1 hr 53 mins    ████████████▓░░░░░░░░░░░░   50.02 %
+C             1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Markdown      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Text          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Bash          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
