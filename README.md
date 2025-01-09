@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Total Time: 11 hrs 24 mins
+Total Time: 9 hrs 15 mins
 
-C++           6 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.46 %
-Java          1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-C             1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Other         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+C++           5 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.67 %
+Java          1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+C             44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Other         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
