@@ -13,13 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Total Time: 2 hrs 8 mins
+Total Time: 3 hrs 37 mins
 
-Java           1 hr 59 mins    ███████████████████████░░   91.90 %
-Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Java           3 hrs 26 mins   ███████████████████████▓░   94.13 %
+XML            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
