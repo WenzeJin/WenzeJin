@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
 Total Time: 12 hrs 32 mins
 
-Java           5 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.48 %
-Text           2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Python         1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Java           4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
+Text           2 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+Python         1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
 Other          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
