@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 9 hrs 34 mins
+Total Time: 11 hrs 27 mins
 
-Java             6 hrs 18 mins   ████████████████▒░░░░░░░░   65.39 %
-Text             1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-C                18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Java             7 hrs 38 mins   ████████████████▓░░░░░░░░   66.25 %
+Text             1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+XML              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+C                18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+GitIgnore file   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
