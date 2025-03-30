@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Total Time: 19 hrs 36 mins
+Total Time: 21 hrs 35 mins
 
-Java             9 hrs 59 mins   ████████████▓░░░░░░░░░░░░   50.55 %
-Rust             6 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   32.74 %
-Markdown         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Text             51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Bash             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Java             10 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   46.37 %
+Rust             6 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+Text             2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Markdown         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Bash             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
