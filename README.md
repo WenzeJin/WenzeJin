@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 07 April 2025
+From: 01 April 2025 - To: 08 April 2025
 
-Total Time: 23 hrs 22 mins
+Total Time: 24 hrs 44 mins
 
-Java         11 hrs 42 mins  ███████████▒░░░░░░░░░░░░░   44.86 %
-Text         8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
-Other        2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Java         11 hrs 36 mins  ██████████▓░░░░░░░░░░░░░░   42.22 %
+Text         8 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   31.70 %
+Other        2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
 ```
 
 <!--END_SECTION:waka-->
