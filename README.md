@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-Total Time: 20 hrs 55 mins
+Total Time: 20 hrs 25 mins
 
-Text         6 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.29 %
-Rust         6 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-Java         5 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Other        2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Rust         6 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Text         6 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.71 %
+Java         5 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+Other        2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
