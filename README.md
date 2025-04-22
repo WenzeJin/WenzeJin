@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 14 hrs 30 mins
+Total Time: 15 hrs 26 mins
 
-C                 7 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
-Other             1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+C                 9 hrs 4 mins    █████████████░░░░░░░░░░░░   52.06 %
+Other             2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
 ```
 
 <!--END_SECTION:waka-->
