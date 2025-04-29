@@ -1,6 +1,6 @@
 ## Wenze Jin (金文泽)
 
-> I am an undergraduate student in School of Computer Science, Nanjing University.
+> I am an undergraduate student at the School of Computer Science, Nanjing University.
 
 - 🔭 I’m currently working on software quality assurance, particularly focusing on testing approaches for specific software.
   
