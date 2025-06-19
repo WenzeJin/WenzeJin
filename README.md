@@ -13,15 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Total Time: 3 hrs 38 mins
+Total Time: 31 mins
 
-Java     1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   35.61 %
-C++      56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
-Text     25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Python   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Swift    15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Python   22 mins         ██████████████████░░░░░░░   71.77 %
+C++      2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
