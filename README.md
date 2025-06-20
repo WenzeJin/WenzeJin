@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-Total Time: 31 mins
+Total Time: 29 mins
 
-Python   22 mins         ██████████████████░░░░░░░   71.77 %
-C++      2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python   22 mins         ███████████████████▓░░░░░   78.21 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
