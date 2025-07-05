@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2025 - To: 03 July 2025
+From: 27 June 2025 - To: 04 July 2025
 
-Total Time: 37 mins
+Total Time: 23 mins
 
-Java           17 mins         ███████████▒░░░░░░░░░░░░░   45.42 %
-Text           11 mins         ████████░░░░░░░░░░░░░░░░░   31.68 %
-CSV            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Java           17 mins         ██████████████████░░░░░░░   71.43 %
+CSV            1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Shell Script   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
