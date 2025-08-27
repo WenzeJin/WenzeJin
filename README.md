@@ -13,14 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 7 hrs 26 mins
+Total Time: 9 hrs 26 mins
 
-C++      6 hrs 23 mins   █████████████████████▒░░░   85.89 %
-Text     36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-C        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++      8 hrs 27 mins   ██████████████████████▒░░   89.52 %
+Text     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
