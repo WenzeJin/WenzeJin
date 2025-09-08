@@ -1,12 +1,9 @@
 ## Wenze Jin (金文泽)
 
-> I am an undergraduate student at the School of Computer Science, Nanjing University.
+I am an (senior) undergraduate student at the School of Computer Science, Nanjing University.
+After my undergraduate studies, I will continue on to a PhD program at Nanjing University.  
 
-- 🔭 I’m currently working on software quality assurance, particularly focusing on testing approaches for specific software.
-  
-- 🌱 I’m interested in SQA & SE.
-  
-- ❓ Feel free to give me any suggestions.  
+My research interest lies in intelligent software testing and analysis, software qaulity and software engineering.
 
 <br>  
 
