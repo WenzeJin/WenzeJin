@@ -3,7 +3,7 @@
 I am an (senior) undergraduate student at the School of Computer Science, Nanjing University.
 After my undergraduate studies, I will continue on to a PhD program at Nanjing University.  
 
-My research interest lies in intelligent software testing and analysis, software qaulity and software engineering.
+My research interest lies in intelligent software testing and analysis, software quality and software engineering.
 
 <br>  
 
