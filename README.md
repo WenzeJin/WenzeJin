@@ -23,4 +23,4 @@ Python                  33 mins         █▓░░░░░░░░░░░�
 
 [Go to my homepage](https://wenzejin.github.io)
 
-[Go to my blog](https://wenzejin.notion.site/Wenze-Jin-s-Blog-1635e9fa7b6d80b3adcedfacc74aa717?pvs=4)
+[Go to my blog](https://wenzejin.notion.site/blogs)
