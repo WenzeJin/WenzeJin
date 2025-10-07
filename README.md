@@ -10,14 +10,12 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 1 hr 4 mins
+Total Time: 5 mins
 
-Text           42 mins         ████████████████▓░░░░░░░░   66.10 %
-Python         16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Java           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Java           0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Other          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
