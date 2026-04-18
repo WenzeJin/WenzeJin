@@ -10,12 +10,12 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Total Time: 4 hrs 49 mins
+Total Time: 4 hrs 3 mins
 
-Python     3 hrs 16 mins         █████████████▒░░░░░░░░░░░   53.09 %
-Other      1 hr 20 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Python     2 hrs 40 mins         ████████████▒░░░░░░░░░░░░   49.39 %
+Other      1 hr 20 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
 ```
 
 <!--END_SECTION:waka-->
