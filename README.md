@@ -10,13 +10,13 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 19 mins
 
-TeX        1 hr 33 mins          █████████████████▓░░░░░░░   70.73 %
-Markdown   33 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-Other      3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+TeX        1 hr 17 mins          ████████████████████████▒   97.61 %
+BibTeX     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
