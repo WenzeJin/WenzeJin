@@ -10,15 +10,15 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2026 - To: 14 May 2026
+From: 08 May 2026 - To: 15 May 2026
 
-Total Time: 9 hrs 18 mins
+Total Time: 6 hrs 28 mins
 
-TeX           5 hrs 33 mins         ██████████████▓░░░░░░░░░░   58.41 %
-PlantUML      1 hr 42 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
-Markdown      1 hr                  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Python        31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Image (png)   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TeX           2 hrs 42 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
+PlantUML      1 hr 46 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+Markdown      58 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Python        26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Image (png)   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
