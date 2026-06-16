@@ -1,7 +1,6 @@
 ## Wenze Jin (金文泽)
 
-I am an (senior) undergraduate student at the School of Computer Science, Nanjing University.
-After my undergraduate studies, I will continue on to a PhD program at Nanjing University.  
+I am an PhD. student at the School of Computer Science, Nanjing University. I obtained B.Sc. from Nanjing University in 2026.
 
 My research interest lies in intelligent software testing and analysis, software quality and software engineering.
 
@@ -24,5 +23,3 @@ Markdown      22 mins               ██▓░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [Go to my homepage](https://wenzejin.github.io)
-
-[Go to my blog](https://wenzejin.notion.site/blogs)
