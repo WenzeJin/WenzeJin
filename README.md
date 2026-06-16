@@ -1,6 +1,6 @@
 ## Wenze Jin (金文泽)
 
-I am an PhD. student at the School of Computer Science, Nanjing University. I obtained B.Sc. from Nanjing University in 2026.
+I am an Ph.D. student at the School of Computer Science, Nanjing University. I obtained B.Sc. from Nanjing University in 2026.
 
 My research interest lies in intelligent software testing and analysis, software quality and software engineering.
 
