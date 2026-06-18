@@ -9,15 +9,15 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 5 hrs 52 mins
+Total Time: 8 hrs 25 mins
 
-Java          2 hrs 5 mins          ████████▓░░░░░░░░░░░░░░░░   35.07 %
-C++           42 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Python        29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-CMake         25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-C             24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Java          3 hrs 35 mins         ██████████▓░░░░░░░░░░░░░░   42.29 %
+Markdown      1 hr 2 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Groovy        33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Python        29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+C++           26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
