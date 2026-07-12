@@ -9,15 +9,15 @@ My research interest lies in intelligent software testing and analysis, software
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2026 - To: 10 July 2026
+From: 04 July 2026 - To: 11 July 2026
 
-Total Time: 9 hrs 28 mins
+Total Time: 7 hrs 46 mins
 
-Bash         2 hrs 10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-C            1 hr 56 mins          █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-Markdown     1 hr 22 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Makefile     1 hr 12 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Cangjie      45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+C             1 hr 57 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Bash          1 hr 35 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Markdown      1 hr 23 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Makefile      47 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Cangjie       45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
 ```
 
 <!--END_SECTION:waka-->
