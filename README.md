@@ -9,14 +9,15 @@ My research interest lies in methodology for intelligent software development / 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 29 July 2026 - To: 05 August 2026
 
-Total Time: 4 hrs 35 mins
+Total Time: 6 hrs 55 mins
 
-TeX            1 hr 37 mins          ████████▒░░░░░░░░░░░░░░░░   33.75 %
-Java           1 hr 15 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-Bash           22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Markdown       18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TeX            1 hr 25 mins          █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Text           1 hr 25 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+Java           1 hr 24 mins          █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+Bash           59 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Markdown       16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
