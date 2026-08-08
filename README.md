@@ -9,7 +9,7 @@ My research interest lies in methodology for intelligent software development / 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2026 - To: 06 August 2026
+From: 31 July 2026 - To: 07 August 2026
 
 Total Time: 6 hrs 56 mins
 
