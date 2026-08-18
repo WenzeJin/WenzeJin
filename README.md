@@ -9,14 +9,13 @@ My research interest lies in methodology for intelligent software development / 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-Total Time: 20 hrs 20 mins
+Total Time: 13 hrs 52 mins
 
-Cangjie      10 hrs 27 mins        ████████████▒░░░░░░░░░░░░   49.20 %
-Markdown     4 hrs 35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-Bash         56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Other        55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown     5 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   36.48 %
+Cangjie      4 hrs 37 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+Other        59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
