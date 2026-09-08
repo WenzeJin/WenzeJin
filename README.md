@@ -9,15 +9,15 @@ My research interest lies in methodology for intelligent software development / 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 6 hrs 54 mins
+Total Time: 5 hrs 16 mins
 
-Markdown     4 hrs 55 mins         ██████████████████░░░░░░░   71.34 %
-C++          1 hr 16 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-CMake        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Python       13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Git Config   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Markdown   4 hrs 12 mins         ████████████████████░░░░░   79.79 %
+C++        47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+Python     13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+CMake      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+HTML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
